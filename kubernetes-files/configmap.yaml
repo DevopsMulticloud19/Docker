@@ -5,4 +5,4 @@ metadata:
   namespace: dev
 data:
   DB_PORT: "3306"            # Port for PostgreSQL
-  DB_NAME: "Database-1"  # Replace with your database name
+  DB_NAME: "database-1"  # Replace with your database name
